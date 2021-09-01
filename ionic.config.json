@@ -1,0 +1,8 @@
+{
+  "name": "app-auto-build",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "866f3ff1"
+}

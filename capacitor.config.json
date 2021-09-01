@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "app-auto-build",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
