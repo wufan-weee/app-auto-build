@@ -12,8 +12,10 @@ pipeline {
         }
       }
       steps {
-          sh 'npm ci'
-          sh 'npm run test'
+          sh 'npm i yarn -g'
+          sh 'yarn install'
+          sh 'yarn add @ionic/cli -g'
+          sh 'yarn apkbuild'
       }
     }
 
